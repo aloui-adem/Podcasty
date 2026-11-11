@@ -22,3 +22,7 @@ Podcasty is a full-stack web application that lets users create, join, and manag
 - Python 3.10+
 - Node.js 19+ and `npm`
 - A [Spotify Developer Account](https://developer.spotify.com/dashboard)
+
+
+## NOTE:
+SPOTIFY api is paid i need a premium account to keep working and finish the project rip
